@@ -32,7 +32,7 @@ for i,j in zip(lats,lons):
             marker=Marker(
                 size=14
             ),
-            text=['Accident has occured here, please reash the location as fast as possible/'],
+            text=['Accident has occured here, please reash the location as fast as possible'],
         )
     ])
 
